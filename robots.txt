@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://atlas.hardcoreroom.com/sitemap.xml
+Sitemap: https://atlas.hardcoreroom.com/sitemap-pages.xml
